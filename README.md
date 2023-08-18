@@ -50,7 +50,7 @@
             <td align="center">17/08/23</td>
             <td align="center">
                 <a href="./001">
-                    <img width="200" src="./001/.github/darkmode.png"/>
+                    <img width="200" src="./001/.github/resultado.png"/>
                 </a>
             </td>
         </tr>

@@ -4,7 +4,7 @@ Este é um projeto de exemplo que demonstra como implementar o modo escuro (Dark
 
 ## Demonstração
 
-<img src="./.github/darkmode.png" />
+<img src="./.github/resultado.png" />
 
 
 ## Funcionalidades

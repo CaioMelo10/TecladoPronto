@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    Projetos e desafios para treinar e praticar lógica de programação com HRML, CSS E JS.
+    Projetos e desafios para treinar e praticar lógica de programação com HTML, CSS E JS.
 </p>
 
 <table align="center">
@@ -45,12 +45,12 @@
         <tr>
             <td align="center">001</td>
             <td align="center">
-                <a href="./001">Player de música</a>
+                <a href="./001">DARK MODE</a>
             </td>
-            <td align="center">18/03/23</td>
+            <td align="center">17/08/23</td>
             <td align="center">
                 <a href="./001">
-                    <img width="200" src="./001/.github/DARKMODE.png.png" />
+                    <img width="200" src="./001/.github/darkmode.png"/>
                 </a>
             </td>
         </tr>

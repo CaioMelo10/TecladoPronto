@@ -1,4 +1,4 @@
-# Teclado Pronto - Calculadora de IMC, CSS e JavaScript
+#     keyboard Ready - Calculadora de IMC, CSS e JavaScript
 
 Este é um projeto de uma calculadora de IMC utilizando HTML, CSS e JavaScript.
 

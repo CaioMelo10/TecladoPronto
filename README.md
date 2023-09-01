@@ -55,4 +55,18 @@
             </td>
         </tr>
     </tbody>
+     <tbody>
+        <tr>
+            <td align="center">002</td>
+            <td align="center">
+                <a href="./002">Calculadora de IMC</a>
+            </td>
+            <td align="center">01/09/23</td>
+            <td align="center">
+                <a href="./002">
+                    <img width="200" src="./002/.github/CalculadoraDeIMC.png"/>
+                </a>
+            </td>
+        </tr>
+    </tbody>
 </table>

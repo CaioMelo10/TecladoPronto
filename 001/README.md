@@ -1,8 +1,8 @@
-# keyboard Ready - Aplicando Dark Mode com HTML, CSS e JavaScript
+# Keyboard Ready - Aplicando Dark Mode com HTML, CSS e JavaScript
 
 Este é um projeto de exemplo que demonstra como implementar o modo escuro (Dark Mode) em uma página web utilizando HTML, CSS e JavaScript.
 
-## Demonstração
+### 👥 Confira:
 
 <img src="./.github/resultado.png"/>
 

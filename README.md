@@ -69,16 +69,16 @@
             </td>
         </tr>
     </tbody>
-    <tbody>
+     <tbody>
         <tr>
             <td align="center">003</td>
             <td align="center">
-                <a href="./003">Calculadora de IMC</a>
+                <a href="./003">Clima agora</a>
             </td>
-            <td align="center">02/09/23</td>
+            <td align="center">04/09/23</td>
             <td align="center">
                 <a href="./003">
-                    <img width="200" src="./003/.github/GeradorDeQRCode.png"/>
+                    <img width="200" src="./003/.github/Captura de tela de 2023-05-05 10-12-21.png"/>
                 </a>
             </td>
         </tr>
@@ -87,54 +87,12 @@
         <tr>
             <td align="center">004</td>
             <td align="center">
-                <a href="./004">Gerador de Senha Forte</a>
+                <a href="./004">Calculadora</a>
             </td>
-            <td align="center">02/09/23</td>
+            <td align="center">05/09/23</td>
             <td align="center">
                 <a href="./004">
-                    <img width="200" src="./004/.github/GeradorDeSenhaForte.png"/>
-                </a>
-            </td>
-        </tr>
-    </tbody>
-    <tbody>
-        <tr>
-            <td align="center">005</td>
-            <td align="center">
-                <a href="./005">Relógio Digital</a>
-            </td>
-            <td align="center">03/09/23</td>
-            <td align="center">
-                <a href="./005">
-                    <img width="200" src="./005/.github/RelógioDigital.png"/>
-                </a>
-            </td>
-        </tr>
-    </tbody>
-     <tbody>
-        <tr>
-            <td align="center">006</td>
-            <td align="center">
-                <a href="./005">Relógio Digital</a>
-            </td>
-            <td align="center">03/09/23</td>
-            <td align="center">
-                <a href="./006">
-                    <img width="200" src="./006/.github/rs.png"/>
-                </a>
-            </td>
-        </tr>
-    </tbody>
-     <tbody>
-        <tr>
-            <td align="center">007</td>
-            <td align="center">
-                <a href="./007">Relógio Digital</a>
-            </td>
-            <td align="center">04/09/23</td>
-            <td align="center">
-                <a href="./007">
-                    <img width="200" src="./007/.github/exemplo2.png"/>
+                    <img width="200" src="./004/.github/Calculadora.png"/>
                 </a>
             </td>
         </tr>

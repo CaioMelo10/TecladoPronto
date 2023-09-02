@@ -167,4 +167,18 @@
             </td>
         </tr>
     </tbody>
+    <tbody>
+        <tr>
+            <td align="center">010</td>
+            <td align="center">
+                <a href="./009">JOGO - Descobrir o número</a>
+            </td>
+            <td align="center">05/09/23</td>
+            <td align="center">
+                <a href="./010">
+                    <img width="200" src="./010/.github/exemplo.png"/>
+                </a>
+            </td>
+        </tr>
+    </tbody>
 </table>

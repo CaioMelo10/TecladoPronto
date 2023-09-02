@@ -1,4 +1,4 @@
-# Keyboard Ready Calculadora em JavaScript.</h1>
+# Keyboard Ready - Calculadora em JavaScript.
 Este é um projeto simples de calculadora criado utilizando JavaScript.
 
 # Linguagens e Ferramentas utilizadas no Projeto:

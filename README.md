@@ -1,10 +1,5 @@
 <h1 align="center">
-<<<<<<< HEAD
-    Keyboard Ready
-=======
     keyboard Ready
-
->>>>>>> 09905f80ae2a9efb09b47b1d17232edcae86d63d
 </h1>
 
 <p align="center">
@@ -74,7 +69,6 @@
             </td>
         </tr>
     </tbody>
-<<<<<<< HEAD
     <tbody>
         <tr>
             <td align="center">003</td>
@@ -174,6 +168,3 @@
         </tr>
     </tbody>
 </table>
-=======
-</table>
->>>>>>> 09905f80ae2a9efb09b47b1d17232edcae86d63d

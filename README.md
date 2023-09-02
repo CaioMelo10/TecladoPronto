@@ -50,7 +50,7 @@
             <td align="center">17/08/23</td>
             <td align="center">
                 <a href="./001">
-                    <img width="200" src="./001/.github/"/>
+                    <img width="200" src="./001/.github/resultado.png"/>
                 </a>
             </td>
         </tr>
@@ -73,7 +73,7 @@
         <tr>
             <td align="center">003</td>
             <td align="center">
-                <a href="./003">Calculadora de IMC</a>
+                <a href="./003">Gerador de QRCode</a>
             </td>
             <td align="center">02/09/23</td>
             <td align="center">

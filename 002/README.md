@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 # Keyboard Ready - Calculadora de IMC, CSS e JavaScript
 
+=======
+#     keyboard Ready - Calculadora de IMC, CSS e JavaScript
+>>>>>>> 09905f80ae2a9efb09b47b1d17232edcae86d63d
 
 Este é um projeto de uma calculadora de IMC utilizando HTML, CSS e JavaScript.
 
